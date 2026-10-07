@@ -9,13 +9,13 @@
   --surface:    #FFFFFF;
   --line:       #D6DED5;
 
-  --pine:       #21594A;
-  --pine-deep:  #163D33;
-  --pine-tint:  #E4EFE9;
+ --pine:       #C62828;
+--pine-deep:  #8E1B1B;
+--pine-tint:  #FDECEC;
 
-  --amber:      #E3B341;
-  --coral:      #D9534F;
-  --sage:       #4C9A78;
+--amber:      #E3B341;
+--coral:      #D9534F;
+--sage:       #D9534F;
 
   --font-display: 'Fraunces', Georgia, serif;
   --font-body:    'Inter', -apple-system, sans-serif;
