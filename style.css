@@ -2,20 +2,19 @@
    TOKENS
    ========================================================= */
 :root {
-  --ink:        #182420;
-  --ink-soft:   #4A5850;
-  --paper:      #EEF2EE;
-  --paper-deep: #E2E8E1;
-  --surface:    #FFFFFF;
-  --line:       #D6DED5;
+--ink:        #172033;
+--ink-soft:   #4B5875;
+--paper:      #F3F7FF;
+--paper-deep: #E8F0FF;
+--line:       #D7E3F8;
 
- --pine:       #C62828;
---pine-deep:  #8E1B1B;
---pine-tint:  #FDECEC;
+--pine:       #2563EB;
+--pine-deep:  #1E3A8A;
+--pine-tint:  #EAF2FF;
 
---amber:      #E3B341;
---coral:      #D9534F;
---sage:       #D9534F;
+--amber:      #3B82F6;
+--coral:      #1D4ED8;
+--sage:       #60A5FA;
 
   --font-display: 'Fraunces', Georgia, serif;
   --font-body:    'Inter', -apple-system, sans-serif;
